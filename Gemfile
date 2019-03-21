@@ -6,6 +6,8 @@ ruby '2.6.0'
 
 gem 'rails', '~> 5.2.2'
 
+gem 'bcrypt', '3.1.12'
+
 #gem 'sqlite3', '~> 1.3.6'
 
 gem 'puma', '~> 3.11'
