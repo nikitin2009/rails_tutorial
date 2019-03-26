@@ -8,6 +8,10 @@ gem 'rails', '~> 5.2.2'
 
 gem 'bcrypt', '3.1.12'
 
+gem 'faker'
+gem 'will_paginate'
+gem 'bootstrap-will_paginate'
+
 gem 'jquery-rails'
 
 #gem 'sqlite3', '~> 1.3.6'
